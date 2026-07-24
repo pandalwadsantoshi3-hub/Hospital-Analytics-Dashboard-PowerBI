@@ -89,10 +89,10 @@ The dataset contains the following fields:
 - Filter data dynamically using slicers.
 - Track key hospital performance metrics.
 
+
 ## 📷 Dashboard Preview
 
-![Hospital Analysis Dashboard - Power BI](images/Hospital-Dashboard.png)
-
+![Hospital Analysis Dashboard  Power BI](Hospital-Dashboard.png)
 
 ## 💡 Skills Demonstrated
 
